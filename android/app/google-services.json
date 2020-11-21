@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "840139878600",
+    "firebase_url": "https://pranab-s-pokemon-app.firebaseio.com",
+    "project_id": "pranab-s-pokemon-app",
+    "storage_bucket": "pranab-s-pokemon-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:840139878600:android:a2f7146662d0769ac9f5fd",
+        "android_client_info": {
+          "package_name": "pranab.fpokemon"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "840139878600-o43809rmcv6seu48cp3bp6gsmd00v6qj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "pranab.fpokemon",
+            "certificate_hash": "ab2785f251e4cfaa53863af8fbfbd1f1b254fb9e"
+          }
+        },
+        {
+          "client_id": "840139878600-108sil0rgvmngqgkobd6o0j2l5lj31ab.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAScmUSN9vpVJPmV9nAjiAauNnAHnRZbgE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "840139878600-108sil0rgvmngqgkobd6o0j2l5lj31ab.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
